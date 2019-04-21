@@ -22,7 +22,7 @@
     "gdpr": "",
     "siteUrl": "undefined",
     "google-analytics": "<meta charset=\"UTF-8\">\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n    \r\n<meta name=\"theme-color\" content=\"#f44242\">\r\n\r\n<meta name=\"description\" content=\"Bump bots that were deleted from Discord Bot List months after being added due to a ridiculous decision\">\r\n\r\n<link rel=\"canonical\" href=\"https://dbl-rejected.github.io\">\r\n\r\n<meta name=\"twitter:card\" value=\"summary\">\r\n\r\n<meta name=\"twitter:title\" content=\"Rejected on DBL\">\r\n\r\n<meta name=\"twitter:description\" content=\"Bump bots that were deleted from Discord Bot List months after being added due to a ridiculous decision\">\r\n\r\n<meta name=\"twitter:image\" content=\"https://dbl-rejected.github.io/ico.ico\">\r\n\r\n<meta property=\"og:site_name\" value=\"Bump Bots\">\r\n\r\n<meta property=\"og:title\" content=\"Rejected on DBL\">\r\n\r\n<meta property=\"og:url\" content=\"https://dbl-rejected.github.io\">\r\n\r\n<meta property=\"og:description\" content=\"Bump bots that were deleted from Discord Bot List months after being added due to a ridiculous decision\">\r\n<meta property=\"og:image\" content=\"https://dbl-rejected.github.io/ico.ico\">",
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -146,7 +146,7 @@
             "showButtons": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "4",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -165,6 +165,33 @@
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/36ffd85335829d3bfae207a59df1e9b3-512x512.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "question",
+              "family": "mobirise-icons-bold",
+              "link": "",
+              "size": 0,
+              "color": "#c1c1c1"
+            }
+          },
+          "title1": "DSC#7931",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://discordapp.com/oauth2/authorize?client_id=415773861486002186&amp;scope=bot&amp;permissions=379972&amp;response_type=code&amp;redirect_uri=http%3A%2F%2Fdiscord.gg%2FYkApH7Z\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INVITE</a>",
+          "media2": {
+            "image": {
               "src": "@PROJECT_PATH@/assets/images/029f6476688f2ff7e6915978b141feba-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
@@ -182,15 +209,15 @@
               "name": "question",
               "family": "mobirise-icons-bold",
               "link": "",
-              "size": 0,
-              "active": true,
-              "color": "#c1c1c1"
+              "size": "180",
+              "color": "#c1c1c1",
+              "active": true
             }
           },
-          "title1": "Venex Space#6690",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"index.html#content5-0\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">UNKNOWN</a>",
-          "media2": {
+          "title2": "Venex Space#6690",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#content5-0\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">UNKNOWN</a>",
+          "media3": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/029f6476688f2ff7e6915978b141feba-600x600.png",
@@ -210,36 +237,13 @@
               "size": 0
             }
           },
-          "title2": "Bumper!#3954",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://bumperbot.ml/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEBSITE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1eb505616e88e7b5beba2dde9f8c350f-512x512.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "Bump Central#2877",
+          "title3": "Bumper!#3954",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://bumpcentral.website\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEBSITE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://bumperbot.ml/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEBSITE</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/servermate-ico-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/1eb505616e88e7b5beba2dde9f8c350f-512x512.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -259,14 +263,18 @@
               "size": ""
             }
           },
-          "title4": "ServerMate#2478",
+          "title4": "Bump Central#2877",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://dlnbots.github.io/servermate\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEBSITE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://bumpcentral.website\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEBSITE</a>",
           "media5": {
             "image": {
-              "src": "images/blocks.png",
+              "src": "@PROJECT_PATH@/assets/images/servermate-ico-600x600.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -278,13 +286,12 @@
               "name": "question",
               "family": "mobirise-icons-bold",
               "link": "",
-              "size": "150",
-              "active": true
+              "size": "150"
             }
           },
-          "title5": "Codiac#0623",
+          "title5": "ServerMate#2478",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">UNKNOWN</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">WEBSITE</a>",
           "media6": {
             "image": {
               "active": true,
