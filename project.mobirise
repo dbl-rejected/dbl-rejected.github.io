@@ -127,7 +127,7 @@
             "overlayOpacity": 0.2
           },
           "title": "What is this?",
-          "text": "<p>In this page, we will showcase the many \"bump\" bots that were stripped from the Discord Bot List's website for a reason that did not seem apply to other bots that were just like the following (Most non-stripped were also newer than these)</p>",
+          "text": "<p>In this page, we will showcase the many \"bump\" bots that were stripped from the Discord Bot List's website for a reason that did not seem apply to other bots that were just like the following (Most non-stripped were also newer than these)</p><p><br></p><p><i><b>All bots are shown in deletion order</b></i></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
