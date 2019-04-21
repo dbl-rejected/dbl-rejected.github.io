@@ -1,0 +1,30 @@
+#menu-5 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-5.mbr-navbar--stuck .mbr-navbar__section {
+  background: #f44242;
+}
+#menu-5 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-5 .mbr-brand__name a {
+  font-size: 19px;
+}
+#content5-0 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 36px;
+}
+#content5-0 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-0 .mbr-article {
+  color: #fff;
+}
+#features1-1 .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#features1-2 .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
